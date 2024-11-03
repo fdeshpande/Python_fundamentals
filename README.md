@@ -1,3 +1,2 @@
 # Python_fundamentals
-Python Tutorial with examples
-
+This is the python tutorial with python projects 
