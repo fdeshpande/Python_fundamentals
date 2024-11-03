@@ -1,0 +1,11 @@
+2018-11-26 08:53:36,253 - twisted - 244 - CRITICAL - - Unexpected exception from twisted.web.client.FileBodyProducer.stopProducing
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/twisted/web/_newclient.py", line 195, in _callAppFunction
+    function()python has stop working
+  File "/usr/local/lib/python3.5/dist-packages/twisted/web/client.py", line 1087, in stopProducing
+    self._task.stop()
+  File "/usr/local/lib/python3.5/dist-packages/twisted/internet/task.py", line 497, in stop
+    self._checkFinish()
+  File "/usr/local/lib/python3.5/dist-packages/twisted/internet/task.py", line 507, in _checkFinish
+    raise self._completionState
+twisted.internet.task.TaskStopped

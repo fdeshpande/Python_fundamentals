@@ -1,0 +1,49 @@
+Variables and Datatypes:-
+
+Variables are the name of a perticular location where a data value is stored.
+example: a = 2 , here a is storing the integer value 2
+b = 2.0 , here b is sloring flot value .
+c = "name" , here c is storing a character string .
+            string can be written in double or single code or can be written in triple code if single and double code are a part of a string.
+d = False , here d is holding bolean value either true or false .
+e = None , here e is holding none value which means nothing .
+
+python can automatically sense the datatyes we do not have to specify it.
+
+If we write a = 15 and A = 20 then it will print a=15 and A = 20 as well. alphabets are case sensitive in python.
+***********************************************************************************************************************************************************
+
+Operators in Python:-
+ 
+ There are various type of operators in python:
+  
+  Arithmatic operators:
+
+  add(+) , subtract(-) , multiply(*) , divide(/) , modulo(%)
+*************************************************************************
+  Comparative operators:     #### always returns boolean value ####
+
+  Equal to(=) , less than (<) , greater than(>) , less or equal to (<=) , greater or equal to(>=) , equal to equal to(==) ,
+  not equal to(!=)
+**************************************************************************************************************************************
+  Assignment operators :
+
+  =  ,  +=  ,  -=  , /=  ,  *=
+**********************************************************************************************
+  Logical Operators: ### returns boolean value ###
+
+  and , or , not  
+
+****************************************************************************************************************************************
+
+Typefunction and Typecasting:
+  
+  type function is used to find datatypes example: ""Print(type(a))""
+
+  type casting is a way to change the one datatype into another one.
+******************************************************************************************
+
+Input Function:
+
+ 
+  
