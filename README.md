@@ -1,2 +1,3 @@
 # Python_fundamentals
-Python fundamentals
+Python Tutorial with examples
+
